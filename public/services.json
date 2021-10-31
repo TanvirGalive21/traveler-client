@@ -1,0 +1,44 @@
+[
+  {
+    "key": 100,
+    "image": "https://i.ibb.co/Q6QJDs9/img6.png",
+    "name": "New York, USA",
+    "price": 5600,
+    "description": "Far far away, behind the word mountains, far from the countries Vokalia.."
+  },
+  {
+    "key": 101,
+    "image": "https://i.ibb.co/hF6S6Fn/img5.png",
+    "name": "Seoul, South Korea",
+    "price": 24000,
+    "description": "Far far away, behind the word mountains, far from the countries Vokalia.."
+  },
+  {
+    "key": 102,
+    "image": "https://i.ibb.co/Hx1gvXR/img1.png",
+    "name": "Paris, France",
+    "price": 5000,
+    "description": "Far far away, behind the word mountains, far from the countries Vokalia.."
+  },
+  {
+    "key": 103,
+    "image": "https://i.ibb.co/DVmRbyB/img2.png",
+    "name": "Sydney, Australia",
+    "price": 5000,
+    "description": "Far far away, behind the word mountains, far from the countries Vokalia.."
+  },
+  {
+    "key": 104,
+    "image": "https://i.ibb.co/PwT21F9/img3.png",
+    "name": "Greece, Europe",
+    "price": 5040,
+    "description": "Far far away, behind the word mountains, far from the countries Vokalia.."
+  },
+  {
+    "key": 102,
+    "image": "https://i.ibb.co/PmTgWn5/img4.png",
+    "name": "Spain, Europe",
+    "price": 5030,
+    "description": "Far far away, behind the word mountains, far from the countries Vokalia.."
+  }
+]
